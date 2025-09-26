@@ -11,16 +11,21 @@
 
 <p align="center">
   <a href="https://discord.gg/xcW8c7fF3R">
-    <img src="https://img.shields.io/discord/1095114867012292758?style=for-the-badge&logo=discord&logoColor=white&color=5865F2&label=Join%20Discord" alt="Discord">
+    <img src="https://img.shields.io/discord/1095114867012292758?style=flat&logo=discord&logoColor=white&color=5865F2&label=Discord&labelColor=404EED" alt="Discord">
+  </a>
+  <a href="https://discord.gg/xcW8c7fF3R">
+    <img src="https://img.shields.io/discord/1095114867012292758?style=social&logo=discord" alt="Discord">
   </a>
   <a href="https://twitter.com/namastexlabs">
-    <img src="https://img.shields.io/badge/Follow-@namastexlabs-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/twitter/follow/namastexlabs?style=social&logo=x" alt="Twitter">
   </a>
-  <a href="https://namastex.ai">
-    <img src="https://img.shields.io/badge/Visit-namastex.ai-00D9FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkw0IDZWMTJDNCAxNi40MiA3LjU4IDIwIDE2IDE2IDIyVjZMMTIgMloiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PC9zdmc+" alt="Website">
+  <a href="https://www.linkedin.com/company/namastexlabs">
+    <img src="https://img.shields.io/badge/LinkedIn-namastexlabs-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/namastexlabs">
+    <img src="https://img.shields.io/github/stars/namastexlabs?style=social&logo=github" alt="GitHub">
   </a>
 </p>
-
 ---
 
 ## 🌟 The Automagik Suite
