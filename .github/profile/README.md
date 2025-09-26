@@ -244,7 +244,7 @@ Everything we build is:
 
 <p align="center">
   <a href="https://discord.gg/automagik">
-    <img src="https://img.shields.io/discord/1234567890?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=00D9FF" alt="Discord">
+    <img src="https://img.shields.io/discord/1095114867012292758?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=00D9FF" alt="Discord">
   </a>
   <a href="https://twitter.com/automagikdev">
     <img src="https://img.shields.io/twitter/follow/automagikdev?style=for-the-badge&logo=twitter&logoColor=white&label=Twitter&color=00D9FF" alt="Twitter">
