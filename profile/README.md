@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/automagik">💬 Discord</a> •
-  <a href="https://twitter.com/automagikdev">🐦 Twitter</a> •
+  <a href="https://discord.gg/xcW8c7fF3R">💬 Discord</a> •
+  <a href="https://twitter.com/namastexlabs">🐦 Twitter</a> •
   <a href="https://namastex.ai">🌐 Website</a>
 </p>
 
@@ -243,11 +243,11 @@ Everything we build is:
 ## 🔗 Connect With Us
 
 <p align="center">
-  <a href="https://discord.gg/automagik">
-    <img src="https://img.shields.io/discord/1095114867012292758?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=00D9FF" alt="Discord">
+  <a href="https://discord.gg/xcW8c7fF3R">
+    <img src="https://img.shields.io/discord/1095114867012292758?style=for-the-badge&logo=discord&logoColor=white&color=5865F2" alt="Discord">
   </a>
-  <a href="https://twitter.com/automagikdev">
-    <img src="https://img.shields.io/twitter/follow/automagikdev?style=for-the-badge&logo=twitter&logoColor=white&label=Twitter&color=00D9FF" alt="Twitter">
+  <a href="https://twitter.com/namastexlabs">
+    <img src="https://img.shields.io/twitter/follow/namastexlabs?style=for-the-badge&logo=x&logoColor=white&color=000000" alt="Twitter">
   </a>
   <a href="https://namastex.ai">
     <img src="https://img.shields.io/badge/Website-namastex.ai-00D9FF?style=for-the-badge" alt="Website">
