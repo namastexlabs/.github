@@ -10,9 +10,15 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/xcW8c7fF3R">💬 Discord</a> •
-  <a href="https://twitter.com/namastexlabs">🐦 Twitter</a> •
-  <a href="https://namastex.ai">🌐 Website</a>
+  <a href="https://discord.gg/xcW8c7fF3R">
+    <img src="https://img.shields.io/discord/1095114867012292758?style=for-the-badge&logo=discord&logoColor=white&color=5865F2&label=Join%20Discord" alt="Discord">
+  </a>
+  <a href="https://twitter.com/namastexlabs">
+    <img src="https://img.shields.io/badge/Follow-@namastexlabs-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://namastex.ai">
+    <img src="https://img.shields.io/badge/Visit-namastex.ai-00D9FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgMkw0IDZWMTJDNCAxNi40MiA3LjU4IDIwIDE2IDE2IDIyVjZMMTIgMloiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PC9zdmc+" alt="Website">
+  </a>
 </p>
 
 ---
@@ -132,83 +138,6 @@ graph LR
 
 ---
 
-## 🚀 Quick Start
-
-### Try Individual Products
-
-Each product works standalone - start with what you need:
-
-```bash
-# Forge: AI Development Orchestration
-npx automagik-forge
-
-# Hive: Multi-Agent Platform
-pip install automagik-hive
-automagik-hive init
-
-# Omni: Messaging Hub
-pip install automagik-omni
-automagik-omni start
-
-# Spark: Workflow Automation
-pip install automagik-spark
-automagik-spark init
-
-# Tools: MCP Generator
-uvx automagik-tools
-```
-
-### Full Suite Setup
-
-Want the complete experience? Install everything:
-
-```bash
-git clone https://github.com/namastexlabs/automagik
-cd automagik
-make install
-make dev
-```
-
----
-
-## 🌍 Who Uses Automagik?
-
-### Developers
-Transform from "AI user" to "AI orchestrator" - maintain control while leveraging multiple agents
-
-### Startups
-Ship AI features 10x faster without vendor lock-in or massive infrastructure investment
-
-### Enterprises
-Production-ready agent systems with security, compliance, and full ownership
-
-### Agencies
-Deliver client projects faster with reusable agent templates and workflows
-
----
-
-## 📚 Learning Resources
-
-- **Documentation**: Each repo has comprehensive docs
-- **Examples**: Real-world templates and patterns in each project
-- **Community**: Join our [Discord](https://discord.gg/automagik) for help and discussion
-- **DeepWiki**: Ask questions about any repo at [deepwiki.com/namastexlabs](https://deepwiki.com/namastexlabs)
-
----
-
-## 🤝 Contributing
-
-We believe in building together. Each product welcomes contributions:
-
-1. **Explore** - Check individual repo READMEs and issues
-2. **Discuss** - Open an issue before starting major work
-3. **Build** - Follow project-specific contribution guidelines
-4. **Share** - Submit PRs with clear descriptions
-
-See [CONTRIBUTING.md](https://github.com/namastexlabs/.github/blob/main/CONTRIBUTING.md) for detailed guidelines.
-
----
-
 ## 💡 Philosophy
 
 ### Human-Centered AI
@@ -230,24 +159,11 @@ Everything we build is:
 
 ---
 
-## 📊 By The Numbers
-
-- 🎯 **5 Products** - Complete automation toolkit
-- 🌟 **5000+** - Combined installations across suite
-- 🚀 **10x** - Average velocity improvement
-- 🔓 **100%** - Open source, no vendor lock-in
-- 🌍 **Global** - Community across 40+ countries
-
----
-
 ## 🔗 Connect With Us
 
 <p align="center">
   <a href="https://discord.gg/xcW8c7fF3R">
     <img src="https://img.shields.io/discord/1095114867012292758?style=for-the-badge&logo=discord&logoColor=white&color=5865F2" alt="Discord">
-  </a>
-  <a href="https://twitter.com/namastexlabs">
-    <img src="https://img.shields.io/twitter/follow/namastexlabs?style=for-the-badge&logo=x&logoColor=white&color=000000" alt="Twitter">
   </a>
   <a href="https://namastex.ai">
     <img src="https://img.shields.io/badge/Website-namastex.ai-00D9FF?style=for-the-badge" alt="Website">
