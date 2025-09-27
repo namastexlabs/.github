@@ -43,7 +43,6 @@ We're building the complete toolkit for production-ready AI automation. Each pro
   <strong>Where Vibe Coding Meets Structure</strong><br>
   Multi-agent orchestrator with Git worktree isolation. Experiment with 8+ LLMs (Claude, Gemini, Cursor), compare results, ship code you understand.<br>
   <a href="https://github.com/namastexlabs/automagik-forge">→ Repository</a> •
-  <a href="https://forge.automag.ik">Website</a> •
   <a href="https://www.npmjs.com/package/automagik-forge">NPM</a>
 </td>
 </tr>
@@ -58,7 +57,6 @@ We're building the complete toolkit for production-ready AI automation. Each pro
   <strong>Production-Ready AI Teams in 5 Minutes</strong><br>
   YAML-based agent creation with hot-reload, persistent memory, and RAG built-in. One-click install with complete stack included.<br>
   <a href="https://github.com/namastexlabs/automagik-hive">→ Repository</a> •
-  <a href="https://hive.automag.ik">Website</a> •
   <a href="https://pypi.org/project/automagik-hive">PyPI</a>
 </td>
 </tr>
@@ -73,7 +71,6 @@ We're building the complete toolkit for production-ready AI automation. Each pro
   <strong>One Integration, All Channels</strong><br>
   Multi-tenant messaging hub connecting AI agents to WhatsApp, Discord, Slack, and more. MCP-native with unified API.<br>
   <a href="https://github.com/namastexlabs/automagik-omni">→ Repository</a> •
-  <a href="https://omni.automag.ik">Website</a> •
   <a href="https://pypi.org/project/automagik-omni">PyPI</a>
 </td>
 </tr>
@@ -88,7 +85,6 @@ We're building the complete toolkit for production-ready AI automation. Each pro
   <strong>AI That Works While You Sleep</strong><br>
   Cron-based workflow scheduler turning reactive agents into proactive workers. 24/7 autonomous execution with monitoring.<br>
   <a href="https://github.com/namastexlabs/automagik-spark">→ Repository</a> •
-  <a href="https://spark.automag.ik">Website</a> •
   <a href="https://pypi.org/project/automagik-spark">PyPI</a>
 </td>
 </tr>
@@ -103,7 +99,6 @@ We're building the complete toolkit for production-ready AI automation. Each pro
   <strong>From API to AI in 30 Seconds</strong><br>
   Auto-generate MCP tools from OpenAPI specs. 9 native integrations, deploy via uvx. Connect any API to any AI instantly.<br>
   <a href="https://github.com/namastexlabs/automagik-tools">→ Repository</a> •
-  <a href="https://tools.automag.ik">Website</a> •
   <a href="https://pypi.org/project/automagik-tools">PyPI</a>
 </td>
 </tr>
