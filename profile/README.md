@@ -91,6 +91,20 @@ We're building the complete toolkit for production-ready AI automation. Each pro
 
 <tr>
 <td width="20%" align="center">
+  <img src="./assets/genie-logo.svg" alt="Genie" width="80"><br>
+  <strong>🧞 Genie</strong><br>
+  <sub>Universal AI Companion</sub>
+</td>
+<td width="80%">
+  <strong>The Glue Between AI Agents and Repositories</strong><br>
+  Ships ready-to-run AI workspace in minutes, keeps templates in sync, exposes battle-tested CLI + MCP server for any agent to work with context.<br>
+  <a href="https://github.com/namastexlabs/automagik-genie">→ Repository</a> •
+  <a href="https://www.npmjs.com/package/automagik-genie">NPM</a>
+</td>
+</tr>
+
+<tr>
+<td width="20%" align="center">
   <img src="./assets/tools-logo.svg" alt="Tools" width="80"><br>
   <strong>🛠️ Tools</strong><br>
   <sub>Instant MCP Generator</sub>
@@ -123,13 +137,15 @@ AI development today is fragmented and complex:
 
 ```mermaid
 graph LR
-    A[Forge Orchestrates] --> B[Hive Executes]
-    B --> C[Omni Communicates]
-    C --> D[Spark Schedules]
-    D --> E[Tools Connects]
-    E --> A
+    A[Genie Orchestrates] --> B[Forge Manages]
+    B --> C[Hive Executes]
+    C --> D[Omni Communicates]
+    D --> E[Spark Schedules]
+    E --> F[Tools Connects]
+    F --> A
 ```
 
+- **Genie** orchestrates AI agents across any codebase with ready-to-run workspace
 - **Forge** manages your AI development workflow with persistent Kanban
 - **Hive** provides production-ready multi-agent teams in minutes
 - **Omni** connects agents to real-world messaging platforms
