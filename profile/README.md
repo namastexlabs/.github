@@ -26,6 +26,13 @@
     <img src="https://img.shields.io/github/stars/namastexlabs?style=social&logo=github" alt="GitHub">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/orgs/namastexlabs/projects/9">
+    <img src="https://img.shields.io/badge/📍_Product_Roadmap-See_what's_coming_next-5319E7?style=for-the-badge" alt="View Product Roadmap">
+  </a>
+</p>
+
 ---
 
 ## 🌟 The Automagik Suite
