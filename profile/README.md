@@ -83,10 +83,10 @@ We're building the complete toolkit for production-ready AI automation. Each pro
   <sub>Omnipresent Messaging</sub>
 </td>
 <td width="80%">
-  <strong>One Integration, All Channels</strong><br>
-  Multi-tenant messaging hub connecting AI agents to WhatsApp, Discord, Slack, and more. MCP-native with unified API.<br>
-  <a href="https://github.com/namastexlabs/automagik-omni">→ Repository</a> •
-  <a href="https://pypi.org/project/automagik-omni">PyPI</a> •
+  <strong>One API, Every Channel</strong><br>
+  Event-driven omnichannel platform (TypeScript/Bun/NATS). Send and receive messages across WhatsApp, Discord, Telegram, and more — with automations, webhooks, and a unified REST API.<br>
+  <a href="https://github.com/automagik-dev/omni">→ Repository</a> •
+  <a href="https://www.npmjs.com/package/@automagik/omni">NPM</a> •
   <a href="https://namastex.ai/request-demo?utm_source=github&utm_medium=readme&utm_campaign=omni"><strong>💼 Commercial License</strong></a>
 </td>
 </tr>
