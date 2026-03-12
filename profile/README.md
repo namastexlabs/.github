@@ -31,7 +31,7 @@ We research and ship CLI-first AI tools, self-hosted infrastructure, and agent o
 
 | Project | What |
 |---------|------|
-| [**pgserve**](https://github.com/namastexlabs/pgserve) | Embedded PostgreSQL 17. Faster than Postgres itself. pgvector built-in. `npx pgserve` |
+| [**pgserve**](https://github.com/namastexlabs/pgserve) | Embedded PostgreSQL 18. Faster than Postgres itself. pgvector built-in. `npx pgserve` |
 | [**Murmurai**](https://github.com/namastexlabs/murmurai) | Self-hosted GPU transcription. Speaker diarization. Free forever. `uvx murmurai` |
 
 **Research**
